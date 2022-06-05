@@ -1,0 +1,23 @@
+{
+    "NAME": "Ravi Kumar",
+    "ABOUT_ME": "My Name is Ravi Kumar Student at National institute of Technology Jamshedpur. My Currently position is PR(Public Relations National Service Scheme NSS NIT Jamshedpur.TECHNICAL SKILLS C C++ JAVA Data Structures Algorithm Problem Solving HTML CSS ",
+    "LANGUAGES": [
+        "Python",
+        "c",
+        "C++",
+        "JAVA",
+        "Html",
+        "css"
+    ],
+    "PROJECTS": [
+
+        ["filter_drama", "Tic Tac App", "It's an amazing Game to Play with your friends and cousin , A Puzzled Game that can sharp your memory.","https://play.google.com/store/apps/details?id=com.shikaruki.tictac"],
+        ["place", "BMI calculator ", "An Android App which is used to check your accurate BMI Index and your Average Weight range. ","https://play.google.com/store/apps/details?id=com.shikaruki.bmicalc"],
+        ["whatshot", "PricePicker", "A plateform where we can compare multiple e commerce plateform price before purchase to get best price..","https://pricegrabber1.herokuapp.com/"]
+    ],
+    "PROJECT_LINK":[
+        ["https://play.google.com/store/apps/details?id=com.shikaruki.tictac"],
+        ["https://play.google.com/store/apps/details?id=com.shikaruki.bmicalc"],
+        ["https://pricegrabber1.herokuapp.com/"]
+    ]
+}
